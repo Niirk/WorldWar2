@@ -34,7 +34,7 @@ js, json, hjson 파일의 경로는 content/blocks 안에서 자유롭게 하셔
     water, slag, oil, cryofluid
 
 {StatusEffect} 목록
-    none, burning, freezing, wet, melting, tarred, overdrive, shielded, boss, shocked, corroded
+    none, burning, freezing, wet, melting, sapped, tarred, overdrive, overclock, shielded, shocked, blasted, corroded, boss, sporeSlowed
 
 {Category} 목록
     turret, production, distribution, liquid, power, defense, crafting, units, effect, logic
